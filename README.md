@@ -1,5 +1,4 @@
 I recently designed and analyzed a Mobile Sales Dashboard in Power BI, showcasing sales performance, customer behavior, and market trends. 📊
-This dashboard provides insights into total sales (769M), transactions (4K), and city-wise & brand-wise performance across India.
 Through this project, I strengthened my skills in data visualization, storytelling, and turning raw data into actionable business insights.
 The Mobile Sales Dashboard provides a complete view of mobile sales performance across cities, brands, payment methods, and customer ratings. It highlights 769M in total sales, 19K units sold, 4K transactions, and an average price of 40.11K per unit.
 The dashboard enables businesses to track regional strengths, customer preferences, and brand performance, turning raw data into strategic insights for decision-making.
